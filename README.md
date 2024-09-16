@@ -32,7 +32,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Before running anything in the project the dataset should be first downloaded and placed in the directory of the project
+Before running anything in the project the dataset should be first downloaded from [text](https://www.kaggle.com/datasets/pypiahmad/endomondo-fitness-trajectories?resource=download) and placed in the directory of the project.
  
 ## Data Exploration
 - The main file for exploring the Endomondo dataset is `data_exploration.ipynb`;
