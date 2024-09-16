@@ -1,5 +1,11 @@
 # Enhancing Heathcare for Older Adults: Predictive Heart Monitoring Using Wearable Technology
-This repository was used during my (Luca Albinescu) internship at Newcastle University in researching how to enhance healthcare for older adults using wearable technology.
+This repository was used during my (Luca Albinescu) internship at Newcastle University in researching how to enhance healthcare for older adults using wearable technology. This project aims to leverage wearable technology like smart watches to provide continuous heart rate monitoring for early detection of potential cardiac issues in older adults. This project tackles the growing challenge in the UK, where more elderly individuals are faced with having to live alone. This raises healthcare concerns, particularly around heart health, as sudden health crises can occur without immediate assistance.
+The primary aim of this project is to develop a proactive system using smartwatches for real-time heart rate monitoring.
+The objectives of my research include:
+1. Finding the right dataset that contains enough metrics for heart-rate predictive analytics;
+2. Training a machine learning model for accurate heart rate prediction using the metrics given by the wearable device;
+3. Deploying this model on wearable devices.
+This repositories will tackle the first 2 objectives.
 
 # Usage
 This software was developed and run on an Asus Rog Strix G G531, 2019, with the following specifications:
